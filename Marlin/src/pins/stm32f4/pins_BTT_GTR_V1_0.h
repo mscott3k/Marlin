@@ -325,8 +325,8 @@
 
 #define HEATER_BED_PIN                      PA2   // Hotbed
 
-#define FAN_PIN                             PE5   // Fan0
-#define FAN1_PIN                            PE6   // Fan1
+#define FAN_PIN                             PE6   // Fan0
+#define FAN1_PIN                            PE5   // Fan1
 #define FAN2_PIN                            PC8   // Fan2
 
 #if ENABLED(M5_EXTENDER)
